@@ -1,6 +1,5 @@
 # Message from the creator
-`This project is for educational use only. I am not responsible for any misuse of this software by users.
-The virus total says there is a virus, but it's because of the obfuscator I used.`
+`This project is for educational use only. I am not responsible for any misuse of this software by users.`
 
 # How it works
 `The program bypasses WiseFolderHider's password checks.`
