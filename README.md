@@ -1,5 +1,5 @@
 # Message from the creator
-`This project is for educational use only. I am not responsible for any misuse of this software by users.`
+`This application is for educational use only. I am not responsible for any misuse of this software by users.`
 
 # How it works
 `The program bypasses WiseFolderHider's password checks.`
