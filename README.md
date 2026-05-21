@@ -1,4 +1,4 @@
-# Message from the creator
+# Message:
 `This application is for educational use only. I am not responsible for any misuse of this software by users.`
 
 # How it works
